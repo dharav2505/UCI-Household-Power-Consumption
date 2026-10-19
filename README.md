@@ -1,5 +1,7 @@
 # 🔌 UCI Household Power Consumption — Data Preprocessing & Forecasting Pipeline
 
+GitHub repository: `Distributed_Guassian_splating`
+
 ## 📋 Project Introduction
 
 This project implements a comprehensive **data preprocessing, feature engineering, and machine learning pipeline** for the [UCI Household Power Consumption](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption) dataset. The objective is to prepare raw, high-frequency time-series energy consumption data for **short-term power load forecasting** — a critical task in modern smart grid and energy management systems.
